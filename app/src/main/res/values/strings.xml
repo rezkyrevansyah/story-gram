@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">storysub</string>
+    <string name="hint_masukkan_nama">Enter your Username</string>
+    <string name="error_empty_name">Username cannot empty</string>
+    <string name="hint_masukkan_email">Enter your Email</string>
+    <string name="error_wrong_email">Email format not match</string>
+    <string name="error_empty_email">Email cannot empty</string>
+    <string name="hint_masukkan_password">Enter your Password</string>
+    <string name="error_password_less_than_8_character">Password must less than 8 characters</string>
+    <string name="error_empty_password">Password cannot empty</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Username</string>
+    <string name="registration_success">Register Successful ☺️</string>
+    <string name="registration_message">Welcome to Storygram</string>
+    <string name="next">Next</string>
+    <string name="login_description">Fill your account first</string>
+    <string name="login_button">Login</string>
+    <string name="text_register">Don\'t have any account?</string>
+    <string name="register_button">Register</string>
+    <string name="visible_password">Show password</string>
+    <string name="register_description">Create your account first</string>
+    <string name="welcome_onboarding">Welcome to Storygram</string>
+    <string name="desc_onboarding">Welcome! this is simple app for upload a story</string>
+    <string name="button_post_story">Upload Story</string>
+    <string name="detail_story_string">Add your story</string>
+    <string name="button_camera">Camera</string>
+    <string name="button_gallery">Gallery</string>
+    <string name="story_description">Story Description</string>
+    <string name="story_uploaded">Story Uploaded</string>
+    <string name="select_image">Please select an image first</string>
+</resources>
